@@ -79,6 +79,7 @@ python swatch.py
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-**Artists and coders everywhere.**
+- **Artists and coders everywhere.**
+- **Great teachers and professors!**
+- **Codacken** - for the name
 
-**Codacken** - the name of the project
