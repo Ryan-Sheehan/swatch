@@ -56,4 +56,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 **Artists and coders everywhere.**
-**codacken - the name of the project**
+
+**codacken** - the name of the project
