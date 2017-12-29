@@ -3,9 +3,31 @@ Swatch is a quick project idea I came up with while reading about color theory a
 
 Example of Swatch on Vermeer's <i>View of Delft</i>:
 
+<em>Source Image:</em>
+
+![alt text](https://github.com/shaikat9000/swatch/blob/master/examples/viewofdelft.jpg)
+
+<em>Average Color</em>:
+
+![alt text](https://github.com/shaikat9000/swatch/blob/master/examples/average_color.jpg)
+
+<em>Average Color by Row</em>:
+
+![alt text](https://github.com/shaikat9000/swatch/blob/master/examples/average_row.jpg)
+
+<em>Average Color by Column</em>:
+
+![alt text](https://github.com/shaikat9000/swatch/blob/master/examples/average_col.jpg)
+
 Example of Swatch on Christopher Nolan's <i>Inception</i> (2010):
 
+![alt text](https://github.com/shaikat9000/swatch/blob/master/examples/inception.jpg)
+
+
 Example of Swatch on Pixar's <i>Inside Out</i> (2015):
+
+![alt text](https://github.com/shaikat9000/swatch/blob/master/examples/insideout.jpg)
+
 
 ## Getting Started
 Swatch runs on Python 3.x. 
