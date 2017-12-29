@@ -1,5 +1,5 @@
 # Swatch
-Swatch is a quick project idea I came up with while reading about color theory and films. It has two main features; image and video processing. By inputting an image, the user can find the average color for that image, as well as the average color by row or average color by column (rows and columns in reference to the rows and columns of pixels that make up the image). By inputting a video file, the program parses through the frames of a video and generates the average color for each frame. Then, it creates a color palette using all of those average colors. 
+Swatch is a quick project idea I came up with while reading about color theory and film. It has two main features; image and video processing. By inputting an image, the user can find the average color for that image, as well as the average color by row or average color by column (rows and columns in reference to the rows and columns of pixels that make up the image). By inputting a video file, the program parses through the frames of a video and generates the average color for each frame. Then, it creates a color palette using all of those average colors. 
 
 Example of Swatch on Vermeer's <i>View of Delft</i>:
 
@@ -56,3 +56,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 **Artists and coders everywhere.**
+**codacken - the name of the project**
